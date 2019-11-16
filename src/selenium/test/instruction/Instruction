@@ -1,0 +1,8 @@
+I used Selenium 3.9 version.
+
+1. Click right button on the mouse and go to Build Path > Configure Build Path > Java Build Path > Libraries
+2. Click Class path and "Add External JARs" button
+3. Add "selenium-server-3.9.1.zip" and "selenium-server-standalone-3.9.1.jar" under "Selenium" folder I attached.
+4. Click "Apply and Close" button.
+5. Then run Atchm6601.java.
+
